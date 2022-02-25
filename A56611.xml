@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief exhortation to those who are shut up from our society and deprived at present of publique instruction. Which may be useful to others also who have any feeling of Gods judgments. By Symon Patrick rector of St. Paul Covent Garden.</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56611</idno>
+            <idno type="STC">Wing P756</idno>
+            <idno type="STC">ESTC R217129</idno>
+            <idno type="EEBO-CITATION">99828829</idno>
+            <idno type="PROQUEST">99828829</idno>
+            <idno type="VID">33261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1932:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief exhortation to those who are shut up from our society and deprived at present of publique instruction. Which may be useful to others also who have any feeling of Gods judgments. By Symon Patrick rector of St. Paul Covent Garden.</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Hayes for S. Thomson, at the sign of the Bishops Head in St. Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Later reprinted as part of: Patrick, Simon.  The hearts ease.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patience --  Religious aspects --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Sick --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33261:1" rendition="simple:additions"/>
+            <p>A brief Exhortation TO Thoſe who are Shut up from our Society, and deprived at preſent of Publique In<g ref="char:EOLhyphen"/>ſtruction. Which may be uſeful to o<g ref="char:EOLhyphen"/>thers alſo who have any feeling of Gods Judgments.</p>
+            <p>By <hi>Symon Patrick</hi> Rector of St. <hi>Paul Covent Garden.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Hayes</hi> for <hi>S. Thomſon,</hi> at the Sign of the Biſhops Head in St. <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard. 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb facs="tcp:33261:2"/>
+            <pb n="1" facs="tcp:33261:2" rendition="simple:additions"/>
+            <opener>
+               <salute>Beloved,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſo natural to every one when he is in diſtreſs, to think of thoſe ſins which he preſently concludes have brought him in<g ref="char:EOLhyphen"/>to it, that I am willing to preſume there is none of you, but hath reflected on himſelf before this time, and askt his ſoul, <hi>What have I done?</hi> Affliction is the ſeaſon for conſideration. It is the mother of many wiſe thoughts, and much know<g ref="char:EOLhyphen"/>ledge, eſpecially of mens ſelves; to whom they are too great ſtrangers till that day comes. In a time then of ſuch great Calamity as this, when the Hand of God preſſes you ſo ſore; to ſuppoſe you to be without all ſerious reflections on your waies, would be to imagine you as hard as the Stones. We cannot believe you are ſo inſenſible. Now that Death preſents it ſelf ſo near, and looks you in the very face, it is not poſſible but that you begin to conſider how you have lived, and what preparation you have made for another ſtare: Now ſure you ask your ſelves theſe queſtions with ſome paſſion, <hi>What have we done?</hi> and <hi>What ſhall we do to be ſaved?</hi> Nay, my Charity carries me ſo far as to think, that in ſuch ſtraits as theſe to which you are reduced, you have done a great deal more; and proceeded to make many reſolutions of amendment. You have vowed to God (I perſwade my ſelf) that if he will ſpare your lives, you will forſake thoſe ſins which have made you ſo mi<g ref="char:EOLhyphen"/>ſerable; and live hereafter in a ſtricter obſervance of his holy commands. You are willing to receive your lives from his hands on theſe conditions. You ask them on no other terms, but that they may be better
+<pb n="2" facs="tcp:33261:3"/>
+imployed for him. And deſire him (I preſume) to deal with you, as you ſeriouſly mean to become new men.</p>
+            <p>Theſe things therefore paſſing for granted; I will not fill up this little Paper with earneſt exhortations to re<g ref="char:EOLhyphen"/>pentance, for which the Rod of God calls ſo loudly; but rather direct you to make it ſuch a repentance as ſhall never be repented of. And awaken your ſelves, I beſeech you, to conſider what I ſay. Sit down and pauſe a while as you go along, to urge every thing upon your heart. And what is ſaid here in brief, make long diſ<g ref="char:EOLhyphen"/>courſes of to your ſelves; labouring at this preſent to ſupply the Preachers place.</p>
+            <p n="1">I. And <hi>firſt,</hi> Since you are now looking into your ſelves, I beſeech you ſearch to the very bottom of your hearts. Though it be a great way thither, yet God hath now given you time and leiſure enough to deſcend into it. As near as you can therefore unravel all your life, that you may ſee what the whole courſe of it hath been. Reflect, I mean, not only on ſome ſins that are nearer at hand, but look on thoſe that are further off, and lie more out of your view. Lay your ſelves naked and ex<g ref="char:EOLhyphen"/>amine your ſelves all over, both without and within, that you may find out every thing which is offenſive to God. Elſe I muſt tell you, this affliction will only make hypocrites, in ſtead of producing good Chriſtians. The fruit of it will be only a partial reformation, which in effect is none at all. Shall I aſſiſt you a little in this great affair?</p>
+            <p>Know then that the ſins which you are in ſearch of, are commonly (for more eaſie underſtanding ſake) comprehended under theſe three heads: 1. Such as are directly againſt God. 2. Such as are an injury alſo to your neighbour. And 3. Such as are againſt your ſelves.
+<pb n="3" facs="tcp:33261:3"/>
+Some of which likewiſe conſiſt in doing what you ought not to have done: and others in not doing thoſe things which you ought to have done.</p>
+            <p>And therefore in your inquiry after the offences a<g ref="char:EOLhyphen"/>gainſt the Majeſty of God, you muſt conſider ſuch things as theſe. Have you not been wont to blaſpheme the Name of God and his Son? Is it not your cuſtom to ſwear and curſe; to deride Religion; and to make a ſcoff of Holy things? Or at leaſt have you not been very negligent in your thoughts of God? Have you uſed your ſelf to call to mind, who made you? Have you ſpent any time in pondering his great love in ſend<g ref="char:EOLhyphen"/>ing his Son to you? Have you not reſiſted many moti<g ref="char:EOLhyphen"/>ons of the Holy Ghoſt? Have you not omitted to wor<g ref="char:EOLhyphen"/>ſhip God as you ought, by daily prayer, and giving him thanks? Have you conſtantly attended his publique ſervice? Have you not ſtaid at home, when you ought to have been in the Houſe of God? Behold then (be<g ref="char:EOLhyphen"/>fore you go any further) your ſin in your puniſhment. You may not go thither if you would, whither when you might have gone you would not. O conſider, how many happy opportunities have you let paſs unregarded? How many bleſſings have you received and never min<g ref="char:EOLhyphen"/>ded from whence they came? How long have you lived and yet been as without God in the world? carrying no fear of a ſupream Power in your mind, no love to the Father of your being; no gratefull ſenſe of the be<g ref="char:EOLhyphen"/>nefits which he doth you every moment. For theſe things you ought to be aſhamed and confounded. It ought to make you bluſh to lift up your eyes to heaven, when you reflect on theſe neglects. For there is no<g ref="char:EOLhyphen"/>thing ſo unnatural as this, to forget him that made you, that ſuſtains you, that provides you with a world of good things continually, both for ſoul and body.</p>
+            <pb n="4" facs="tcp:33261:4"/>
+            <p>And now when you turn your thoughts from hence (as ſoon as ſorrow and grief will let you) to look upon the offences which may be committed againſt your neighbor, you will find them to be ſo many, that it will coſt you ſome time to do no more then know them. For as many perſons as you are acquainted withall, or ſtand in relation unto, ſo many ſins may ariſe by your injuries or neglects of them. Some of theſe perſons (for example ſake) are your <hi>equals.</hi> Conſider therefore; have you been alwaies juſt in word and deed to them? have you defrauded no man? have you never ſlaunder<g ref="char:EOLhyphen"/>ed nor backbited your neighbours? have you not been a make-bate among them and diſturbed their peace? was it not your wont to paſs the time in jeering of them? or paſſing raſh cenſures and judgements upon them? Is there no malice nor hatred in your hearts to any of them? have you pardoned them when they wronged you? Do you not bear an old grudge to ſome or other? Are you not forgetfull of benefits, and revengefull of in<g ref="char:EOLhyphen"/>juries? Have you ſuccoured, as you were able, thoſe that were in need. Have you not been without compaſſion to the poor, and unmindfull of thoſe that were ſick? All theſe things muſt be examined: and many more will preſent themſelves to your thoughts, if you do ſeriouſly imploy them to find out thoſe faults that are to be a<g ref="char:EOLhyphen"/>mended.</p>
+            <p>And again you will ſee (if you look about you) that there are other perſons who ſtand <hi>above</hi> you, requiring o<g ref="char:EOLhyphen"/>ther regards then your <hi>equals</hi> do. And here it is much to be conſidered, whether you have dutifully carried your ſelves to your naturall parents. Whether you have ho<g ref="char:EOLhyphen"/>noured the King, with your ſpirituall Governours and Paſtors, as you ought. And whether your Maſters and all your betters have had their due reſpect. Have you not been irreverent in your behaviour or ſpeeches to
+<pb n="5" facs="tcp:33261:4"/>
+ſome of theſe? Have you not diſobeyed their juſt com<g ref="char:EOLhyphen"/>mands and contemned their orders? Have you not cauſleſly quarrelled with their injunctions, and found fault with their government? Nay hath it not been your manner to revile them and ſpeak evil of them? Are you not ready to believe all the evil that is ſpoken by others; and to ſit in judgment upon your Governors? Do you not ſleight and undervalue their authority? Have you not mean thoughts of them, never conſider<g ref="char:EOLhyphen"/>ing that they are ſet by God over you? I doubt theſe are ſins that have ſpread themſelves far more then the Plague. And therefore narrowly examine your ſelves about them, that none of them may eſcape your notice.</p>
+            <p>And then caſt your eyes on other perſons that are <hi>be<g ref="char:EOLhyphen"/>low</hi> you, who may charge you it is poſſible with many ſins more. Conſider what care have you taken of your children, your ſervants, and all others who are com<g ref="char:EOLhyphen"/>mitted to your charge; that they may want nothing that is needfull either for their ſouls or bodies? Have you made a conſcience to inſtruct them in their duty, or to ſend them to be inſtructed? I cannot inſtance in all particulars, unleſs I ſhould write a Book; and therefore I deſire thoſe who are Parents only to enquire about this one thing which is of great moment. Have you put your children in mind often of the vow they made in Baptiſm? Do you remember them of their promiſe to forſake the devil and all his works, and to keep Gods ho<g ref="char:EOLhyphen"/>ly will &amp; Commandments? Do you tell them that God hath taken them to be his children, and that they may not therefore do as they liſt, but as he would have them? Do you teach them the Catechiſm which is appointed for their inſtruction; and take care they come to him that hath the cure of ſouls among you when it is requi<g ref="char:EOLhyphen"/>red, there reverently to receive his admonitions? I fear theſe things are too much neglected, if not deſpiſed, or
+<pb n="6" facs="tcp:33261:5"/>
+elſe we ſhould ſee Chriſtian people in better condition. If any of you therefore intend now to make one good Chriſtian, let him call himſelf to an account in this par<g ref="char:EOLhyphen"/>ticular.</p>
+            <p>You ſee (my Brethren) already, that it is a very ſe<g ref="char:EOLhyphen"/>rious buſineſs to amend, ſeeing there are ſo many things to be ſet in order. And yet you have not heard all that you have to do if you deſign a reformation. For you are to conſider how you have reſpected your ſelves, to whom there is a great reverence due, and whom many things do very much misbecome. As for example, is it fit for a rational creature to mind nothing elſe but getting of wealth which he muſt ſo ſhortly leave? Hath he nothing elſe to care for but what he ſhall eat, and what he ſhall drink, and wherewithall he ſhall be cloath<g ref="char:EOLhyphen"/>ed? Is it ſeemly for <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>m to wallow in drink, to burn with luſt and filthy deſires? How doth he look when he is full of wrath and tranſported by his choller? Is he not quite transformed? doth he not ſeem to be beſide him<g ref="char:EOLhyphen"/>ſelf? Examine your ſelves then in theſe things; in matters of temperance, of chaſtity, of meekneſs, of pa<g ref="char:EOLhyphen"/>tience, of heavenly mindedneſs, and ſuch like. And think you are not your ſelves, till you be reclaimed from the ſottiſh vice of drinking and tipling; from beaſtly uncleanneſs; from fury and rage, which are no leſs bru<g ref="char:EOLhyphen"/>tiſh; nay from earthly mindedneſs and the love of mo<g ref="char:EOLhyphen"/>ney, which is a very groſs ſtupidity.</p>
+            <p>But I ſee it will not conſiſt with the brevity I deſign to ſay any more on this head, but the reſt muſt be left to your own conſcience. Only let me briefly note <hi>two</hi> benefits which you will receive by an impartial ſober weighing of what hath been ſaid. <hi>First.</hi> You will ſee that it is a work of time and pains to amend ſo many
+<pb n="7" facs="tcp:33261:5"/>
+things as you may find amiſs; and therefore will re<g ref="char:EOLhyphen"/>quire not only your preſent, but your future in<g ref="char:EOLhyphen"/>deavours. Eſpecially if you conſider, that in all the ca<g ref="char:EOLhyphen"/>ſes I have mentioned, there are theſe things likewiſe to be examined and pondered. The frequency of thoſe ſins; the delight you took in them; the expenſe of time and money they put you too; the degree of boldneſs and ſhameleſsneſs; the ſcandall they brought along with them; the diſhonour they did to Religion, to ho<g ref="char:EOLhyphen"/>ly daies, and holy things; the many reproofs and checks they were againſt; with all the vows and reſolu<g ref="char:EOLhyphen"/>tions which you broke that you might commit them. If theſe things, I ſay, be weighed, you will not eaſily be<g ref="char:EOLhyphen"/>lieve your ſelves, if you ſhould fancy that the buſineſs is already done, which I ſuppoſe was but begun together with this affliction that is upon you. And now I mention your affliction, it gives <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>it occaſion for the <hi>ſe<g ref="char:EOLhyphen"/>cond</hi> note which I would have you make; <hi>viz.</hi> That your puniſhment is a great deal leſs then you deſerve. That you have not received ſo many ſtripes, as you have committed offences. Here being ſuch a vaſt number of ſins which you may find your ſelves guilty of, it will make you cry out (if you be touched with any pious ſenſe) <hi>It is of the Lords mercies that we are not conſumed. Why doth a living man complain, a man for the puniſhment of his ſin?</hi> There is no reaſon that we ſhould repine un<g ref="char:EOLhyphen"/>der his afflicting hand, but rather bleſs his goodneſs that we are not in a far more lamentable condition.</p>
+            <p n="2">II. And that you may not be more miſerable, nor after ſeverer ſtrokes here fall into everlaſting condem<g ref="char:EOLhyphen"/>nation; I beſeech you as you love your ſouls, ſtir them up, by the grace of God, to a through and ſpeedy refor<g ref="char:EOLhyphen"/>mation in every particular wherein you muſt charge your ſelves to have done amiſs. You ſee your work; do
+<pb n="8" facs="tcp:33261:6"/>
+not go about it with a dull and an heavy heart; but with earneſtneſs, with zeal and fervour of ſpirit, as thoſe who are infinity concerned in it. The danger you are in ſure will awaken you. The judgements of God which hangover your heads will chaſe away all ſloth and lazi<g ref="char:EOLhyphen"/>neſs. And eſpecially the ſad ſenſe of your former neg<g ref="char:EOLhyphen"/>lects will make you give all diligence that this buſineſs may not miſcarry in your hands. Which that it may nor,</p>
+            <p n="3">III. I beſeech you in the next place that your pur<g ref="char:EOLhyphen"/>poſes of reformation (which I hope you are now form<g ref="char:EOLhyphen"/>ing) may proceed upon a right ground, and flow from a ſound and laſting principle of obedience: <hi>viz.</hi> not meerly from the fear and dread of Gods preſent judge<g ref="char:EOLhyphen"/>ments, but from a true fear of himſelf, and a reverend regard to his Sovereign authority. Not meerly that you may now eſcape out of his hands and ſave your lives; but that you may be really his friends and live to him. If your reſolutions take their beginning from the heavy ſtroke which is upon you, yet they muſt take their growth and confirmation from the conſideration of the cauſe of it, which is nothing elſe but your ſins againſt God. Theſe you muſt hate more then the Plague it ſelf. You muſt purpoſe to amend out of an abhorrence you have to all diſobedience againſt his Majeſty; out of a love you bear to his bleſſed nature and holy will; out of a ſenſe that he is your Lord and Governour; that all his Laws are juſt and good; that he is your chief good and laſt end, in agreement with whom only you can be happy. For if it be nothing elſe but the preſent cala<g ref="char:EOLhyphen"/>mities which awaken you; when they are gone you will fall aſleep and be ſecure in your ſins again. But the Fear and the Love of God will alwaies inſpire you to do well, and they will never let you return to folly any
+<pb n="9" facs="tcp:33261:6"/>
+more. Theſe will alſo make you entire in your obedi<g ref="char:EOLhyphen"/>ence. They are an univerſal cauſe of all vertue. They will not ſuffer you to be partial in your duty, but through<g ref="char:EOLhyphen"/>ly inſtruct you to every good work. And here I be<g ref="char:EOLhyphen"/>ſeech you again to have a reſpect to all Gods Com<g ref="char:EOLhyphen"/>mandments, for it can never be too often remembred. Place not your amendment only in increaſing your de<g ref="char:EOLhyphen"/>votion, but in bettering your manners. <hi>This is the damning hypocriſie of this Age, that it ſleights all good Morality, and ſpends its zeal only in matters of Worſhip and Devotion.</hi>
+            </p>
+            <p n="4">IV. And now I have but one requeſt more to make to you, which you will eaſily grant, if the foregoing be entertained. It is this: If God be pleaſed to reſtore you to your liberty again (which we continually pray for) be ſure to make good the Vows which now are up<g ref="char:EOLhyphen"/>on you. Let it be ſeen that indeed the love of God and Religion is in your hearts, and that your purpoſes are not the fruit of a preſent paſſion. Cannot you re<g ref="char:EOLhyphen"/>member that you have made many promiſes to God before now, which were never performed? Hath not a ſickneſs, or a Sermon begot ſome reſolutions which all vaniſhed away? O ſearch I beſeech you (if you love your eternal life) after the cauſe of this falſneſs; for it will betray your purpoſes again. Was it not becauſe you did not throughly hate the ſin which you promiſed to leave? Was it not becauſe a right ſenſe of God and goodneſs had not ſetled it ſelf in your minds? Did not your diſaffection to ſin ariſe only becauſe the temptati<g ref="char:EOLhyphen"/>on was gone? Was not your appetite then ſurfetted and ſick, which in time recovered it ſelf? Then juſt ſo it will be hereafter when you go abroad again. You will renew your friendſhip with your evil courſes, unleſs you have ſome good principles in you ſtronger then all
+<pb n="10" facs="tcp:33261:7"/>
+your ſinfull appetites and then all the ſollicitations of the world.</p>
+            <p>If you mean therefore to be as good as your word, you ſee it is of abſolute neceſſity to ſettle ſome firm un<g ref="char:EOLhyphen"/>alterable principle of new obedience in your ſoul. The former advice muſt be diligently heeded, unleſs you intend to loſe all your labour: and ſo muſt theſe al<g ref="char:EOLhyphen"/>ſo that follow.</p>
+            <p n="1">1. The better to aſſure your future obedience, I wiſh you to make ſome experiment upon your ſelves, while you remain within doors. There are ſome things that can be done at this very time: Let us ſee you perform them, if you would have us believe that you mean to amend. Cannot you now be patient, and not think hardly of God or men? Cannot you bleſs God for this affliction, and pray that it may do you good? Cannot you ſpend your time very much in meditation, in pray<g ref="char:EOLhyphen"/>er, and in examining your ſelves? Cannot you ſeriouſly deſire the prayers of good people for you? Cannot you reform that vain and evil communication which we hear many of you entertain at your Windows with idle and looſe people, that are not at all affected with the judgements of God upon the Land? If you will not do theſe, never believe any of the promiſes you make of a<g ref="char:EOLhyphen"/>mendment in all the reſt.</p>
+            <p n="2">2. And then I entreat you to reſolve by the grace of God to continue thoſe holy exerciſes of prayer, medi<g ref="char:EOLhyphen"/>tation and examining your ſelves when you come a<g ref="char:EOLhyphen"/>broad again: in order to make you perform the other parts of your duty. They are not all Religion (as men fooliſhly think) but they are the helps and means to bring us to the practiſe of all that God commands. Therefore be ſure you ſpend ſome part of every day in calling to mind your purpoſes, and the grounds or rea<g ref="char:EOLhyphen"/>ſons on which they were made. Put your ſelves in mind
+<pb n="11" facs="tcp:33261:7"/>
+of God, of your dependance on him, and of the love and duty you owe him. Earneſtly beſeech him for Jeſus his ſake to aſſiſt you with the grace of his holy Spirit that you may keep your word. And take an account of your performance as often as you can. And let me take the liberty to tell you it is eaſie here to read your ſin in your preſent chaſtiſement. You have not loved to be retired, and ſo now God ſhuts you up whether you will or no. Shut up your ſelf therefore hereafter in ſecret: get aſide from all company and be alone with your ſelves and God if you mean to be ſaved. You have complained its like in times paſt, that you had no time to ſpare from your neceſſary occaſions. Behold! now God hath taken away this objection from this buſie City. Now they have leiſure enough who would find none before. Now he hath left them nothing elſe to do but to conſider their waies. Their Trades ſtood lately in their way to Heaven: they could not paſs thither through their Shops. And ſo now he hath ſhut up their ſhop doors, and removed their trade from them. He hath made room now for Religion, which could find no place a little while ago. He would let that into their houſes and hearts which was barr'd out by innumerable imployments. He ſeems to bid them now be wiſe Merchants for better things, and to follow a traffique with heaven, which they would have no com<g ref="char:EOLhyphen"/>merce withall before. This if our people will not ſee they muſt die (I think) of incurable blindneſs. And let all thoſe whoſe eyes are opened, have a care to amend this great, this firſt fault, which makes ſo many others.</p>
+            <p n="3">3. To which let this requeſt be alſo added, that you would all remember to confirm your reſolutions by fre<g ref="char:EOLhyphen"/>quent and reverend receiving of the Sacrament of the Lords Supper. A duty too much neglected, though it
+<pb n="12" facs="tcp:33261:8"/>
+be inſtituted on purpoſe for a remembrance of Chriſts love in giving his life for us; then which there is no<g ref="char:EOLhyphen"/>thing more powerful to move our hearts to all love, and obedience. This every little buſineſs in the world can put by. For this men can find no time; and ſo their reſolutions are ſtarved and die for want of ſo good nouriſhment as this holy feaſt would afford them. If then you would have them maintained in life, do not deny your ſouls the benefit of this divine food, but take all opportunities to refreſh and ſtrengthen them there<g ref="char:EOLhyphen"/>with.</p>
+            <p n="4">4. It would be of great uſe alſo if you would often ſeriouſly reflect upon the indulgence of God in ſparing your lives when ſo many thouſands were every week cut off. Caſt your eyes back upon this mournful time, and think why was not my grave digged among the reſt. You cannot imagine the mercy of God hath ſo mean an end as to continue you here only to eat and drink, to get wealth, and enjoy the reſt of the pleaſures of the fleſh. The world is in no ſuch need of you that you ſhould ſtay only to take up a room in it. It would ſtill be full enough if you were gone. Your living when others are dead is of no conſequence, unleſs it be to pre<g ref="char:EOLhyphen"/>pare for a better life. Uſe it therefore for that end, and think that you are delivered to glorifie your Creator by new obedience.</p>
+            <p n="5">5. I ſhould have deſired you withall often to think of death; and not to look upon it as a great way off, be<g ref="char:EOLhyphen"/>cauſe you have eſcaped this ſtroke: It may lie in ambuſh for you in another place, and therefore you are to expect that every where, which waits for you no body knows where.</p>
+            <p n="6">6. And laſtly, I ſhould have commended to your moſt ſerious meditation the promiſes of the life to come; beſeeching you not to loſe ſo great a good for want of
+<pb n="13" facs="tcp:33261:8"/>
+perſevering a few daies longer in that good mind wherein you now find your ſelves by the grace of God;</p>
+            <p>But then I ſhould leave no room for a few words to all truly pious Souls, who may lie under this calamity as well as others. To you at laſt, O dear Friends, this ſhort Diſcourſe addreſſes it ſelf. And though I know you will not think your ſelves unconcerned in all that hath been ſaid, but find ſomething either to be amen<g ref="char:EOLhyphen"/>ded or compleated in you; yet the promiſes of eternal life (juſt now mentioned) ſeem above all other things to offer themſelves as moſt proper for your thoughts at this ſeaſon. The hope of this will be your greateſt com<g ref="char:EOLhyphen"/>fort in this affliction. This will ſupport you, and make you to rejoyce in the midſt of tribulation. What though you have the common portion of others in this preſent time, ſince you have a great deal better prepared for you hereafter? Nay, what though you be now excluded from external communion with the people of God? the time is coming when you ſhall enter into a moſt happy fellowſhip, from which there will be no ſepara<g ref="char:EOLhyphen"/>tion. Do not therefore faint under this affliction, nor be weary when you are corrected. Humbly ſubmit your ſelf to your heavenly Father. Reſign your ſelf into the hands of his wiſe Love, that he may diſpoſe of you as he pleaſes. Believe firmly that he is good even when he ſmites. And think that he who will give you eternal life, would not deny you a leſs thing if he ſaw it beſt. Remember the patience of <hi>Job;</hi> or rather ſet before your eyes the example of our bleſſed Saviour, who was <hi>made perfect by ſufferings.</hi> Think that he pities you: and that withall he looks upon you to ſee how you will now behave your ſelf. Let him behold a Soul meek, contented, couragious, rejoycing alwaies; for there is not a more lovely ſpectacle that he can be preſented
+<pb n="14" facs="tcp:33261:9"/>
+withall. And let him ſee your belief of his Goſpel ſo ſtrong and lively, that you do not tremble to paſs through that gate, which he hath entred before you. Follow him chearfully to the grave it ſelf. Remember that he hath overcome Death, that King of terrours: That he hath deſpoiled it of all its power, and made it innocent to his followers. Let it not affright you there<g ref="char:EOLhyphen"/>fore; but look upon it as a neceſſary paſſage to a better life. Welcome it as a friend, and do not take it any lon<g ref="char:EOLhyphen"/>ger for an enemy. Receive it with ſuch a countenance, as if you believed it to be a meſſenger ſent to fetch you home to your Fathers houſe. In theſe good thoughts I leave you; and heartily commit you to the love and care of our deareſt Lord. Beſeeching you, now that our publique Inſtructions cannot reach you, this private Meſſage may be imbraced with as much affection as it is ſent to you. And beſeeching him alſo that you may be as ſtrongly moved to a ſpeedy conſideration of theſe things, as I was to the writing of them, for the uſe of thoſe Souls that are committed to my Charge. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33261:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
